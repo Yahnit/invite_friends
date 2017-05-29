@@ -1,0 +1,11 @@
+- Please make sure that you are logged into facebook.
+- Open the following link https://www.facebook.com/collegecounsel.org/.
+- Beside "Send Message" button, there is another button with 3 dots.
+- Press that and you will find an option "invite friends". Click that button.
+- Now scroll down so that you can get as many friends as possible in the list.
+- Now open console (in firefox of ubuntu,linux or mac press ctrl-shift-k) 
+- at the end of the page u will find some space where text can be pasted.
+- Now open this link "https://github.com/Yahnit/invite_friends/blob/master/invite.js",copy the whole code and paste in the console and press Enter.
+- If at all a dialog box appears,mark the checkbox and press continue.
+- Due to FB privacy reasons,we can only invite limited people on a single day. i know it sucks :( :(
+- cheers,done! 
